@@ -13,7 +13,7 @@
 ```shell
 		cd scripts && mkdir scripts & cd scripts
 ```
-### 5. Move Given scripts,requirement.txt,files to this directory
+### 5. Move Given scripts,requirement.txt,files to scripts directory directory
 ### 6.Upgrade pip
 ```shell
 		pip install --upgrade pip
