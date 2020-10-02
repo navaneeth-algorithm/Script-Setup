@@ -28,6 +28,8 @@
 		pip install -r requirement.txt -v
 ```
 ### 9. Install tesseract-ocr
+	Install guide for teseract OCR
+	[Tesseract](https://www.pyimagesearch.com/2017/07/03/installing-tesseract-for-ocr/)
 
 ### 10. Download tesseract trained data
 ```shell
